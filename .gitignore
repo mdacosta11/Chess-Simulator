@@ -1,0 +1,17 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+out/
+bin/
+target/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
